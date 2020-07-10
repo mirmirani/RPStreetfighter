@@ -8,7 +8,12 @@
    box-sizing: border-box; 
 }
 
-.ryu, .ken {
+.ryu {
+    height: 30vw;
+    width: 15vw;
+}
+
+.ken {
     height: 30vw;
     width: 15vw;
 }
